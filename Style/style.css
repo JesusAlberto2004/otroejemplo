@@ -1,0 +1,17 @@
+body{
+    background-image: url("/Resourcers/fondo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    background-image: url("/Resourcers/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-control{
+    background-image: url("/Resourcers/transparente.png");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      opacity: 0.5
+    }
